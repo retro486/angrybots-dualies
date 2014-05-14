@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Modules/TriggerOnMouseOrJoystick.js">
+    <Files>
+      <File FileName="Assets/Scripts/Movement/PlayerMoveController.js" Line="83" Column="51" />
+      <File FileName="Assets/Scripts/Movement/CameraControl.js" Line="39" Column="16" />
+      <File FileName="Assets/Scripts/Modules/TriggerOnMouseOrJoystick.js" Line="26" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
